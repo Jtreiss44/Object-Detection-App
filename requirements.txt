@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+vidgear
+opencv-python-headless
+yt-dlp
+torch
